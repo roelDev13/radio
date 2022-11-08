@@ -1,7 +1,7 @@
 {
   "name": "radio-app",
   "version": "0.1.0",
-  "homepage": "https://roeldev13.github.io/radio-stations",
+  "homepage": "https://roeldev13.github.io/radio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
